@@ -11,3 +11,6 @@ this is  a simpe web project and deployment can be done on any server or even on
 Adding one more line to match the diiference from the udemy course
 ## How to contribute
 
+## Copy Right
+ 2014 Git.training
+ 
