@@ -1,6 +1,10 @@
-# Start of the Read me document
-## HEAding 1
+# Starter Web Project
 
-##heading 2
+## Introduction
 
-##heading 3
+## Purpose
+
+## Deployment
+
+## How to contribute
+
