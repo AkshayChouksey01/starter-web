@@ -16,5 +16,6 @@ Adding one more line to match the diiference from the udemy course
 Please fork this repository and then issue Pull requets for review.
 
 ## Copy Right
- 2014 Git.training
+ 2014 Git.training. All rights reserved
+ 
  
